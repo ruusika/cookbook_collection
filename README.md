@@ -5,3 +5,5 @@ Planned Mods to include:
 - Farmer's Delight by [vectorwing](https://github.com/vectorwing/FarmersDelight)
 - Expanded Delight by [ianm1647](https://github.com/ianm1647/expandeddelight)
 - Croptopia by [ExcessiveAmountsOfZombies](https://github.com/ExcessiveAmountsOfZombies/Croptopia)
+
+Used Datapack by Uccash (Discord: JustARoy#7915) 

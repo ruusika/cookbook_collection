@@ -1,4 +1,10 @@
 package net.ruusika.cbcollection;
 
-public class CBCollectionClient {
+import net.fabricmc.api.ClientModInitializer;
+
+public class CBCollectionClient implements ClientModInitializer {
+    @Override
+    public void onInitializeClient() {
+
+    }
 }

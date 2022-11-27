@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "cbcollection",
-  "version": "0.0.1-1.18.2 ",
+  "version": "0.0.1-1.18.2",
 
   "name": "Cookbook Collection",
   "description": "A collection of Minecraft cooking mods cookbooks",
@@ -31,7 +31,7 @@
 
   "depends": {
     "fabricloader": ">=0.14.10",
-    "fabric-api": "*",
+    "fabric": "*",
     "minecraft": "~1.18.1",
     "java": ">=17"
   },

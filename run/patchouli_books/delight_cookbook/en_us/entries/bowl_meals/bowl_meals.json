@@ -1,0 +1,27 @@
+{
+	"name": "A bowl for happiness",
+	"icon": "farmersdelight:steak_and_potatoes",
+	"category": "patchouli:meals",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:roasted_mutton_chops",
+			"recipe2": "farmersdelight:steak_and_potatoes"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:grilled_salmon",
+			"recipe2": "farmersdelight:nether_salad"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:fruit_salad",
+			"recipe2": "farmersdelight:mixed_salad"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:bacon_and_eggs",
+			"text": "Some dishes served in a bowl"
+		}
+	]
+}

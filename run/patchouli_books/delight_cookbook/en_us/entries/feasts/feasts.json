@@ -1,0 +1,23 @@
+{
+	"name": "Some good meals to share",
+	"icon": "farmersdelight:shepherds_pie_block",
+	"category": "patchouli:feasts",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:roast_chicken_block",
+			"recipe2": "farmersdelight:honey_glazed_ham_block"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:shepherds_pie_block",
+			"recipe2": "farmersdelight:apple_pie"
+
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:sweet_berry_cheesecake",
+			"recipe2": "farmersdelight:chocolate_pie"
+		}
+	]
+}

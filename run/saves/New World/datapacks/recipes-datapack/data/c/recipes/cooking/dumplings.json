@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "c:lettuce"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "item": "farmersdelight:raw_pasta"
+    },
+    {
+      "tag": "fabric:raw_beef"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:dumplings",
+    "count": 2
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

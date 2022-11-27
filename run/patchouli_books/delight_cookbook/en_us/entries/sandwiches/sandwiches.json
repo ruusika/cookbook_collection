@@ -1,0 +1,17 @@
+{
+	"name": "Sandwiches",
+	"icon": "farmersdelight:bacon_sandwich",
+	"category": "patchouli:meals",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:chicken_sandwich",
+			"recipe2": "farmersdelight:egg_sandwich"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:bacon_sandwich",
+			"recipe2": "farmersdelight:hamburger"
+		}
+	]
+}

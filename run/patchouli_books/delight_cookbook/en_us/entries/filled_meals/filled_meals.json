@@ -1,0 +1,12 @@
+{
+	"name": "Meals with a stuffing",
+	"icon": "farmersdelight:stuffed_potato",
+	"category": "patchouli:meals",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:stuffed_potato",
+			"recipe2": "farmersdelight:mutton_wrap"
+		}
+	]
+}

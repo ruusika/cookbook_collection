@@ -1,0 +1,27 @@
+{
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2022-11-27 16:01:41 +0100"
+    },
+    "done": false
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2022-11-27 16:01:40 +0100"
+    },
+    "done": true
+  },
+  "valley:exploration/root": {
+    "criteria": {
+      "location": "2022-11-27 16:01:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-11-27 16:01:40 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

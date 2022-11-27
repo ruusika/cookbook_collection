@@ -1,0 +1,28 @@
+{
+	"name": "Pantries",
+	"icon": "farmersdelight:spruce_pantry",
+	"category": "patchouli:utensils",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:oak_pantry",
+			"recipe2": "farmersdelight:birch_pantry"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:spruce_pantry",
+			"recipe2": "farmersdelight:jungle_pantry"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:acacia_pantry",
+			"recipe2": "farmersdelight:dark_oak_pantry"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:crimson_pantry",
+			"recipe2": "farmersdelight:warped_pantry",
+			"text": "A cupboard to store your wonderful dishes and a good interior choice for your kitchen!"
+		}
+	]
+}

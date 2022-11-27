@@ -1,0 +1,12 @@
+{
+	"name": "A sweet little helper",
+	"icon": "farmersdelight:honey_cookie",
+	"category": "patchouli:meals",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:sweet_berry_cookie",
+			"recipe2": "farmersdelight:honey_cookie"
+		}
+	]
+}

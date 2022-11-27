@@ -1,0 +1,33 @@
+{
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2022-11-27 16:16:59 +0100"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-11-27 16:16:59 +0100"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2022-11-27 16:16:59 +0100"
+    },
+    "done": true
+  },
+  "valley:exploration/root": {
+    "criteria": {
+      "location": "2022-11-27 16:16:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-11-27 16:16:59 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

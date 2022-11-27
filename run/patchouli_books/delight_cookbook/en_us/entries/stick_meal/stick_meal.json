@@ -1,0 +1,12 @@
+{
+	"name": "Things on a stick or two",
+	"icon": "farmersdelight:barbecue_stick",
+	"category": "patchouli:meals",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:barbecue_stick",
+			"recipe2": "farmersdelight:melon_popsicle"
+		}
+	]
+}
